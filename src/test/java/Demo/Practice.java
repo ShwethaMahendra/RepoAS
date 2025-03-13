@@ -8,7 +8,7 @@ public class Practice {
 	@Test
 	private void m1() {
 		System.out.println("Hello");
-		//Modificatin & push to github to check it autoruns with scm (* * * * *)
+		//Modificatin & push to github to check it autoruns with Pole scm with * * * * *
 
 	}
 }
